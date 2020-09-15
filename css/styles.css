@@ -1,0 +1,1048 @@
+
+/************Login Page*******************/
+
+.loginpic{
+    width: 1568px;
+    height: 707px;
+    margin-left: -210px;
+    margin-top: -58px;
+    position: absolute;
+}
+.login{
+    width: 329px;
+    height: 656px;
+    margin-left: 74px;
+    margin-top: -7px;
+    position: absolute;
+    padding-left: 20px;
+    background-color: #f9f2ec;
+}
+.logintopic{
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bolder;
+    color:dimgray;
+    line-height: 44px;
+    padding-left: 21px;
+    width: 186px;
+    padding-right: 20px;
+    border-bottom: khaki solid 1px;
+}
+.login-form{
+    margin-top: 300px;
+    padding-left: 47px;
+    position: absolute;
+}
+.logo{
+    margin-top: 49px;
+    position: absolute;
+    padding-left: 42px;
+    width:230px;
+    height: 181px;
+}
+.login-form input{
+    margin-left: -103px;
+    width:204px;
+    height: 25px;
+    position: absolute;
+    margin-top: 10px;
+    border: gray solid 1px;
+    background: #f9f2ec;
+    padding-left: 10px;
+}
+.login-form input[type=submit]{
+    width: 200px;
+    height: 31px;
+    position: absolute;
+    background: #604020;
+    color: white;
+    border: none;
+    margin-left: -95px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.msg{
+    color: red;
+}
+.loginlogo{
+    margin-left: 80px;
+    margin-top: 44px;
+    width: 165px;
+    height: 153px;
+    position: absolute;
+}
+#main_body{
+    background-image: url(../images/ibex_wallpaper_by_willwill100.png);
+    height: 566px;
+    width: 1349px;
+    background-repeat: no-repeat;
+}
+.dashpic{
+    width: 1365px;
+    height: 513px;
+    margin-top: -7px;
+    margin-left: -7px;
+    position: absolute;
+    font-family: Georgia;
+}
+.thought{
+    font-size: 60px;
+    color: #dab38b;
+    position: absolute;
+    margin-top: 354px;
+    margin-left: 64px;
+    font-family: Georgia;
+}
+.thought1{
+    font-size: 60px;
+    color: #dab38b;
+    position: absolute;
+    margin-top: 436px;
+    margin-left: 108px;
+    font-family: Tangerine;
+}
+.logoT{
+    font-size: 23px;
+    color:#4d3319;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 66px;
+    font-family:"Courier New";
+
+}
+/**********************mainpage*****************/
+.Dailytreatment:hover{
+    background: #4d3319;
+}   
+.Dailytreatment{
+    width:163px;
+    height: 42px;
+    background: none;
+    border: rgb(198, 189, 160) solid 2px;
+    position: absolute;
+    margin-top:543px;
+    margin-left: 39px;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 61px;
+}
+.Dailytreatment a{    
+    text-decoration: none;
+    color: rgb(198, 189, 160);
+    font-size: 16px;
+    font-family:  "Courier New";
+    font-weight: bolder;
+}
+.appointments:hover{
+    background: #4d3319;   
+}
+.appointments{
+    width:166px;
+    height: 42px;
+    background: none;
+    border: rgb(198, 189, 160) solid 2px;
+    position: absolute;
+    margin-top:543px;
+    margin-left: 302px;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 57px;
+    color: white;
+}
+.appointments a{
+    text-decoration: none;
+    color: rgb(198, 189, 160);
+    font-size: 16px;
+    font-family:  "Courier New";
+    font-weight: bolder;
+}
+.Sellings{
+    width:141px;
+    height: 42px;
+    background: none;
+    border: rgb(198, 189, 160) solid 2px;
+    position: absolute;
+    margin-top:543px;
+    margin-left: 560px;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 86px;
+    color: white;
+}
+.Sellings:hover{
+    background: #4d3319;   
+}
+.Sellings a{
+    text-decoration: none;
+    color: rgb(198, 189, 160);
+    font-size: 16px;
+    font-family:  "Courier New";
+    font-weight: bolder;
+}
+.customer{
+    width:152px;
+    height: 42px;
+    background: none;
+    border: rgb(198, 189, 160) solid 2px;
+    position: absolute;
+    margin-top:543px;
+    margin-left: 823px;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 73px;
+    color: white;
+}
+.customer:hover{
+    background:#4d3319;   
+}
+.customer a{
+    text-decoration: none;
+    color: rgb(198, 189, 160);
+    font-size: 16px;
+    font-family:  "Courier New";
+    font-weight: bolder;
+}
+.staff{
+    width:131px;
+    height: 42px;
+    background: none;
+    border: rgb(198, 189, 160) solid 2px;
+    position: absolute;
+    margin-top:543px;
+    margin-left: 1087px;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 98px;
+    color: white;
+}
+.staff:hover{
+    background: #4d3319;   
+}
+.staff a{
+    text-decoration: none;
+    color: rgb(198, 189, 160);
+    font-size: 16px;
+    font-family:  "Courier New";
+    font-weight: bolder;
+}
+/**************navigation****************/
+.navigation{
+    width:1362px;
+    height:130px;
+    margin-top: -15px;
+    margin-right: -17px;
+    margin-left:  -7px;
+    background-color: #f9f2ec;
+    position: absolute;
+    border-top:    #604020 solid 21px;
+}
+.navigation ul{
+    margin: 0;
+    margin-top: 83px;
+    margin-right: 10px;
+} 
+.navigation li{
+    float:right;
+    list-style: none;
+    margin: -5px 0 12px 0;
+}
+.navigation li a:hover{
+    border-bottom: khaki solid 2px; 
+}
+.navigation li a{
+    color:#5c5c3d;
+    text-decoration: none;
+    font-family: Georgia;
+    font-weight:bolder;
+    font-size: 16px;
+    padding-bottom: 8px;
+    line-height: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.logo{
+    margin-left:71px;
+    margin-top: 10px;
+    width: 118px;
+    height: 104px;
+    position: absolute;
+}
+#myModal{
+    display: none;  /*Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/************************staff module***************/
+.staffmembers{
+    width: 1134px;
+    background-color: #f9f2ec;
+    margin-top: 301px;
+    margin-left: 113px;
+    position: absolute;
+}
+.stafftopic{
+    font-family: initial;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 25px;
+    color: rgb(198, 189, 160);
+    width: 1139px;
+    margin-top: 208px;
+    margin-left: 100px;
+    border-bottom: #f9f2ec solid 1px;
+    line-height: 48px;
+    padding-left: 20px;
+}
+.tbl_members {
+    width: 1093px;
+    margin-top:18px;
+    margin-left: 20px;
+}
+.tbl_members td{
+    font-family:  "Courier New";
+    width: 987px;
+    line-height: 36px;
+    border-bottom: silver solid 1px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+.tbl_members th{
+    font-weight: bolder;
+    background: rgb(225, 216, 196);
+    border-bottom: darkgrey solid 2px;
+    padding-top: 10px;
+    color: #262626;
+    line-height: 36px;
+    font-family:  Georgia;
+    font-size: 14px;  
+}
+.btnNewstaff{
+    width: 226px;
+    height: 35px;
+    background: #4d3319;
+    border: #f9f2ec solid 1px;
+    margin-top: 215px;
+    margin-left: 1031px;
+    position: absolute;
+    color: #f9f2ec;
+    font-family: Helvetica;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    font-size: 13px;
+    font-weight: bolder;
+}
+.btnNewstaff:hover{
+    background:#60401f;
+}
+.search-staff{
+    position: absolute;
+    margin-left: 744px;
+    margin-top: 15px;
+}
+.search-staff input[type=text]{
+    width: 213px;
+    height: 30px;
+    border: gray solid 1px;
+    background:  #f9f2ec;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .2);
+    padding-left: 7px;
+}
+.search-staff input[type=submit]{
+    width: 150px;
+    height: 30px;
+    background:  #4d3319;
+    color: #f9f2ec;
+    font-family: Helvetica;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    font-size: 13px;
+    font-weight: bolder;
+    border: none;
+}
+.search-staff input[type=submit]:hover{
+    background:#60401f;
+}
+/********* staff save form************/
+#save_newMember{
+    width: 663px;
+    height: 297px;
+    margin-top: 131px;
+    margin-left: 335px;
+    position: absolute;
+    background-color: #f9f2ec;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    display: none;
+}
+#save_newMember input{
+    width: 200px;
+    height: 30px;
+    border: gray solid 1px;
+    background:  #f9f2ec;
+}
+.tbl-memberform{
+    width: 659px;
+    line-height: 39px;
+    margin-top: -60px;
+}
+.topicSaveMember{
+    font-family: Georgia;
+    font-weight: bolder;
+    font-size: 17px;
+    color: #262626;
+    background: rgb(225, 216, 196);
+    padding-top: 14px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 647px;
+    margin-top: 4px;
+    margin-left: -10px;
+}
+.save_member{
+    margin-left: 13px;
+    width:200px;
+}
+.save-staff{
+    width: 200px;
+    height: 31px;
+    position: absolute;
+    background: #604020;
+    color: white;
+    border: none;
+    margin-top: -95px;
+    margin-left: 432px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.closeicon1{
+    width: 17px;
+    margin-top: 8px;
+    margin-left: 641px;
+    position: absolute;
+}
+/************************customer module***************/
+.customers{
+    width: 974px;
+    background-color: #f9f2ec;
+    margin-top: 301px;
+    margin-left: 218px;
+    position: absolute;
+}
+.customerztopic{
+    font-family: initial;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 25px;
+    color: rgb(198, 189, 160);
+    width: 1002px;
+    margin-top: 208px;
+    margin-left: 196px;
+    border-bottom: #f9f2ec solid 1px;
+    line-height: 48px;
+    padding-left: 20px;
+}
+.tbl_customers {
+    width: 946px;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.tbl_customers td{
+    font-family:  "Courier New";
+    width: 987px;
+    line-height: 36px;
+    border-bottom: silver solid 1px;
+    font-size: 15px;
+    padding-left: 55px;
+}
+.tbl_customers th{
+    font-weight: bolder;
+    background: rgb(225, 216, 196);
+    border-bottom: darkgrey solid 2px;
+    padding-top: 10px;
+    color: #262626;
+    line-height: 36px;
+    font-family:  Georgia;
+    font-size: 14px;  
+}
+.btnNewcustomer{
+    width: 226px;
+    height: 35px;
+    background: #4d3319;
+    border: #f9f2ec solid 1px;
+    margin-top: 215px;
+    margin-left: 991px;
+    position: absolute;
+    color: #f9f2ec;
+    font-family: Helvetica;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    font-size: 13px;
+    font-weight: bolder;
+}
+.btnNewcustomer:hover{
+    background:#60401f;
+}
+/********* customer save form************/
+#save_newcustomer{
+    width: 407px;
+    height: 289px;
+    margin-top: 131px;
+    margin-left: 481px;
+    position: absolute;
+    background-color: #f9f2ec;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    display: none;
+}
+#save_newcustomer input{
+    width: 200px;
+    height: 30px;
+    border: gray solid 1px;
+    background:  #f9f2ec;
+}
+.tbl-customerform{
+    width: 523px;
+    line-height: 39px;
+    margin-top: -60px;
+    margin-left: 10px;
+}
+.topicSavecustomer{
+    font-family: Georgia;
+    font-weight: bolder;
+    font-size: 17px;
+    color: #262626;
+    background: rgb(225, 216, 196);
+    padding-top: 14px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 390px;
+    margin-top: 4px;
+    margin-left: -10px;
+}
+.save_customer{
+    margin-left: 13px;
+    width:200px;
+}
+.save-customer{
+    width: 200px;
+    height: 31px;
+    position: absolute;
+    background: #604020;
+    color: white;
+    border: none;
+    margin-top: -32px;
+    margin-left: 127px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.closeicon2{
+    width: 17px;
+    margin-top: 8px;
+    margin-left: 385px;
+    position: absolute;
+}
+/************************selling module***************/
+.soldlist{
+    width: 726px;
+    background-color: #f9f2ec;
+    margin-top: 301px;
+    margin-left: 530px;
+    position: absolute;
+}
+.sellingstopic{
+    font-family: initial;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 25px;
+    color: rgb(198, 189, 160);
+    width: 1164px;
+    margin-top: 208px;
+    margin-left: 100px;
+    border-bottom: #f9f2ec solid 1px;
+    line-height: 48px;
+    padding-left: 20px;
+}
+.tbl-sellings{
+    width:696px;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.tbl-sellings td{
+    font-family:  "Courier New";
+    width: 987px;
+    line-height: 36px;
+    border-bottom: silver solid 1px;
+    font-size: 15px;
+    padding-left: 17px;
+}
+.tbl-sellings th{
+    font-weight: bolder;
+    background: rgb(225, 216, 196);
+    border-bottom: darkgrey solid 2px;
+    padding-top: 10px;
+    color: #262626;
+    line-height: 36px;
+    font-family:  Georgia;
+    font-size: 14px;  
+}
+/********* selling save form************/
+#save_newselling{
+    width: 356px;
+    height: 289px;
+    margin-top: 302px;
+    margin-left: 131px;
+    position: absolute;
+    background-color: #f9f2ec;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+#save_newselling input{
+    width: 200px;
+    height: 30px;
+    border: gray solid 1px;
+    background:  #f9f2ec;
+}
+.tbl-sellingform{
+    width: 317px;
+    line-height: 39px;
+    margin-top: -60px;
+    margin-left: 10px;
+}
+.topicSaveselling{
+    font-family: Georgia;
+    font-weight: bolder;
+    font-size: 17px;
+    color: #262626;
+    background: rgb(225, 216, 196);
+    padding-top: 14px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 338px;
+    margin-top: 4px;
+    margin-left: -10px;
+}
+.save_sellings{
+    margin-left: 13px;
+    width:200px;
+}
+.save-selling{
+    width: 200px;
+    height: 31px;
+    position: absolute;
+    background: #604020;
+    color: white;
+    border: none;
+    margin-top: -32px;
+    margin-left: 112px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.soldmember{
+    width: 200px;
+    height: 30px;
+    border: gray solid 1px;
+    background:  #f9f2ec;
+}
+.customers{
+    width: 974px;
+    background-color: #f9f2ec;
+    margin-top: 301px;
+    margin-left: 218px;
+    position: absolute;
+}
+.customerztopic{
+    font-family: initial;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 25px;
+    color: rgb(198, 189, 160);
+    width: 1002px;
+    margin-top: 208px;
+    margin-left: 196px;
+    border-bottom: #f9f2ec solid 1px;
+    line-height: 48px;
+    padding-left: 20px;
+}
+.tbl_customers {
+    width: 946px;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.tbl_customers td{
+    font-family:  "Courier New";
+    width: 987px;
+    line-height: 36px;
+    border-bottom: silver solid 1px;
+    font-size: 15px;
+    padding-left: 55px;
+}
+.tbl_customers th{
+    font-weight: bolder;
+    background: rgb(225, 216, 196);
+    border-bottom: darkgrey solid 2px;
+    padding-top: 10px;
+    color: #262626;
+    line-height: 36px;
+    font-family:  Georgia;
+    font-size: 14px;  
+}
+.btnNewcustomer{
+    width: 226px;
+    height: 35px;
+    background: #4d3319;
+    border: #f9f2ec solid 1px;
+    margin-top: 215px;
+    margin-left: 991px;
+    position: absolute;
+    color: #f9f2ec;
+    font-family: Helvetica;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    font-size: 13px;
+    font-weight: bolder;
+}
+.btnNewcustomer:hover{
+    background:#60401f;
+}
+/************************Treatment module***************/
+.dailytreatments{
+    width: 1090px;
+    background-color: #f9f2ec;
+    margin-top: 301px;
+    margin-left:145px;
+    position: absolute;
+}
+.treatmenttopic{
+    font-family: initial;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 25px;
+    color: rgb(198, 189, 160);
+    width: 1095px;
+    margin-top: 208px;
+    margin-left: 126px;
+    border-bottom: #f9f2ec solid 1px;
+    line-height: 48px;
+    padding-left: 20px;
+}
+.tbl-showtreatments {
+    width: 1067px;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.tbl-showtreatments td{
+    font-family:  "Courier New";
+    width: 987px;
+    line-height: 36px;
+    border-bottom: silver solid 1px;
+    font-size: 15px;
+    padding-left: 23px;
+}
+.tbl-showtreatments th{
+    font-weight: bolder;
+    background: rgb(225, 216, 196);
+    border-bottom: darkgrey solid 2px;
+    padding-top: 10px;
+    color: #262626;
+    line-height: 36px;
+    font-family:  Georgia;
+    font-size: 14px;  
+}
+.btnNewtreatment{
+    width: 226px;
+    height: 35px;
+    background: #4d3319;
+    border: #f9f2ec solid 1px;
+    margin-top: 215px;
+    margin-left: 1014px;
+    position: absolute;
+    color: #f9f2ec;
+    font-family: Helvetica;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    font-size: 13px;
+    font-weight: bolder;
+}
+.btnNewtreatment:hover{
+    background:#60401f;
+}
+/********* treatment save form************/
+#save_newtreatment{
+    width: 663px;
+    height: 272px;
+    margin-top:119px;
+    margin-left: 335px;
+    position: absolute;
+    background-color: #f9f2ec;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    display: none;
+}
+#save_newtreatment input{
+    width: 200px;
+    height: 30px;
+    border: gray solid 1px;
+    background:  #f9f2ec;
+}
+.tbl-treatmentform{
+    width: 659px;
+    line-height: 39px;
+    margin-top: -86px;
+}
+.topicSavetreatment{
+    font-family: Georgia;
+    font-weight: bolder;
+    font-size: 17px;
+    color: #262626;
+    background: rgb(225, 216, 196);
+    padding-top: 14px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 647px;
+    margin-top: 4px;
+    margin-left: -10px;
+}
+.save_treatment{
+    margin-left: 13px;
+    width:200px;
+}
+.save-treatment{
+    width: 200px;
+    height: 31px;
+    position: absolute;
+    background: #604020;
+    color: white;
+    border: none;
+    margin-top: -33px;
+    margin-left: 432px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+.closeicon3{
+    width: 17px;
+    margin-top: 8px;
+    margin-left: 641px;
+    position: absolute;
+}
+.treattype{
+    width: 200px;
+    height: 30px;
+    border: gray solid 1px;
+    background: #f9f2ec;
+}
+.treatedcustomer{
+    width: 200px;
+    height: 30px;
+    border: gray solid 1px;
+    background: #f9f2ec;  
+}
+/************************Appointment module***************/
+.displayappointments{
+    width: 1053px;
+    background-color: #f9f2ec;
+    margin-top: 301px;
+    margin-left: 160px;
+    position: absolute;
+}
+.appointmenttopic{
+    font-family: initial;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 25px;
+    color: rgb(198, 189, 160);
+    width: 1075px;
+    margin-top: 208px;
+    margin-left: 137px;
+    border-bottom: #f9f2ec solid 1px;
+    line-height: 48px;
+    padding-left: 20px;
+}
+.tbl_appointments {
+    width: 1025px;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.tbl_appointments td{
+    font-family:  "Courier New";
+    width: 987px;
+    line-height: 36px;
+    border-bottom: silver solid 1px;
+    font-size: 15px;
+    padding-left: 15px;
+}
+.tbl_appointments th{
+    font-weight: bolder;
+    background: rgb(225, 216, 196);
+    border-bottom: darkgrey solid 2px;
+    padding-top: 10px;
+    color: #262626;
+    line-height: 36px;
+    font-family:  Georgia;
+    font-size: 14px;  
+}
+.btnNewappointment{
+    width: 226px;
+    height: 35px;
+    background: #4d3319;
+    border: #f9f2ec solid 1px;
+    margin-top: 215px;
+    margin-left: 991px;
+    position: absolute;
+    color: #f9f2ec;
+    font-family: Helvetica;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    font-size: 13px;
+    font-weight: bolder;
+}
+.btnNewappointment:hover{
+    background:#60401f;
+}
+
+/********* Appointment save form************/
+#save_newappointment{
+    width: 407px;
+    height: 319px;
+    margin-top: 131px;
+    margin-left: 481px;
+    position: absolute;
+    background-color: #f9f2ec;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    display: none;
+}
+#save_newappointment input{
+    width: 200px;
+    height: 30px;
+    border: gray solid 1px;
+    background:  #f9f2ec;
+}
+.tbl-appointmentform{
+    width: 377px;
+    line-height: 39px;
+    margin-top: -100px;
+    margin-left: 10px;
+}
+.topicSaveappointents{
+    font-family: Georgia;
+    font-weight: bolder;
+    font-size: 17px;
+    color: #262626;
+    background: rgb(225, 216, 196);
+    padding-top: 14px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 390px;
+    margin-top: 4px;
+    margin-left: -10px;
+}
+.save_appointments{
+    margin-left: 13px;
+    width:200px;
+}
+.update-appointment{
+    width: 130px;
+    height: 31px;
+    position: absolute;
+    background: #604020;
+    color: white;
+    border: none;
+    margin-top: -32px;
+    margin-left: 60px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);  
+}
+.update-appointment:hover{
+    background: #4d3319;
+}
+.save-appointment{
+    width: 127px;
+    height: 31px;
+    position: absolute;
+    background: #604020;
+    color: white;
+    border: none;
+    margin-top: -32px;
+    margin-left: 190px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.save-appointment:hover{
+    background: #4d3319;
+}
+/*************************Help*******************/
+.helptopic{
+    font-family: initial;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 25px;
+    color: rgb(198, 189, 160);
+    margin-top: 173px;
+    margin-left: 626px;
+    line-height: 48px;
+    padding-left: 20px; 
+}
+.helpsubtopic{
+    font-family: initial;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 16px;
+    color: rgb(198, 189, 160);
+    width: 453px;
+    margin-top: 213px;
+    border-bottom: #f9f2ec solid 1px;
+    margin-left: 349px;
+    line-height: 48px;
+    padding-left: 188px;
+}
+.helpdetail{
+    width: 1307px;
+    background: black;
+    margin-top: 270px;
+    margin-left: 21px;
+    position: absolute;
+    opacity: 0.4;
+    height: 372px;
+}
+.tbl_help{
+    font-family: "Courier New";
+    font-size: 15px;
+    color:rgb(198, 189, 160);
+    margin-top: 286px;
+    margin-left: 43px;
+    position: absolute;
+    width:1278px;
+    line-height: 29px;
+}
+.tbl_help th{
+    font-weight: bolder;
+    color:#f9f2ec;
+    font-size: 15px;
+}
+.tbl_help td{
+    width: 238px;
+}
+.btn_delete{
+    padding-top: 7px;
+    padding-left: 8px;
+    padding-right: 6px;
+    padding-bottom: 7px;
+    background: rgb(225, 216, 196);
+    text-decoration: none;
+    color: black;
+    border-radius: 3px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .3);
+}
+.btn_delete:hover{
+    color: red;
+}
+.btn_update{
+    margin-left: 20px;
+    padding-top: 7px;
+    padding-left: 8px;
+    padding-right: 6px;
+    padding-bottom: 7px;
+    background: rgb(225, 216, 196);
+    text-decoration: none;
+    color: black;
+    border-radius: 3px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .3);
+}
+.btn_update:hover{
+    color: darkgoldenrod;
+    font-weight: bold;
+}
+#nic-descriiptor{
+    color: red;
+}
